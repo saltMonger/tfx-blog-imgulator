@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "tfxblogimgulator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\dev\\Unity\\GameJams\\kenney-jam-2022\\Recordings\" ([0-9]{4}) png"
+    }
+  }
+}
